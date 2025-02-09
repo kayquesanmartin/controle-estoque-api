@@ -12,6 +12,6 @@
 
 * **POST /produtos** → Cadastrar produto
 * **GET /produtos** → Listar todos
-* **PUT /produtos/{id}/entrada** → Adicionar estoque
-* **PUT /produtos/{id}/saida** → Remover estoque
+* **PUT /produtos/{id}/entry** → Adicionar estoque
+* **PUT /produtos/{id}/output** → Remover estoque
 * **DELETE /produtos/{id}** → Remover produto
